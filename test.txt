@@ -1,0 +1,2 @@
+1.git add test.txt
+2.git conmmit -m ¡°add test.txt¡±
